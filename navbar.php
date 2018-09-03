@@ -159,7 +159,7 @@ hr {
             ?>
             <li>
               <a class="btn" class="nav-link" href="upload.php">
-                <button type="button" class="btn navbar-btn" id="but" style= "background-color: #fd680e;color: #fff;"> Upload your articles here</button></a>
+                <button type="button" class="btn btn-info" > Upload your articles here</button></a>
               </li>
               <?php
             endif;
@@ -172,7 +172,7 @@ hr {
             ?>
             <li>
              <a class="btn" href="logout.php">
-              <button type="button" class="btn  navbar-btn" id="but" style= "background-color: #fd680e;color: #fff;">Logout
+              <button type="button" class="btn btn-info" >Logout
                </button>
              </a>
              </li>
