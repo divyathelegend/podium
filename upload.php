@@ -144,7 +144,7 @@ margin: 0;
       ?>
       <li>
        <a class="btn" href="logout.php">
-        <button type="button" class="btn  navbar-btn" id="but" style= "background-color: #fd680e;color: #fff;">Logout
+        <button type="button" class="btn btn-info" >Logout
         </button>
       </a>
     </li>
