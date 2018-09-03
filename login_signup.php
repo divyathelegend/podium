@@ -3,7 +3,7 @@ session_start();
 include 'db.php';  
  if(isset($_SESSION["Authentication"])){
    if($_SESSION["Authentication"]=="Fail")
-     echo "Incorect credentials";
+     echo "Incorrect credentials";
    else
      header("Location:index.php");
  }
